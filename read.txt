@@ -1,0 +1,5 @@
+To compile and run, put the .java files into the same folder. Run the Pinball.java file to get the results.
+
+To change from random to systematic methods comment lines 122-123 and uncomment line 125. To change from systematic to random uncomment lines 122-123 and comment line 125.
+
+Brenton McCorvey
